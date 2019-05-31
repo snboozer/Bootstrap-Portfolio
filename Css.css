@@ -1,0 +1,16 @@
+
+body {
+    background-image: url("images/cheap_diagonal_fabric.png");
+    color: #777777;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color:#666666;
+    border-top: 3px solid #4aaaa5;
+    text-align: center;
+  }
